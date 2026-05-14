@@ -75,3 +75,5 @@ dotnet run
 Тулупников Илья Дмитриевич
 Группа ПМИ-231
 ВФ ВолГУ
+
+https://github.com/flomikctrl/Practice_12-13_OOP_Tulupnikov
