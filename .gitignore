@@ -1,0 +1,10 @@
+/bin/
+/obj/
+*.user
+*.suo
+*.userosscache
+*.vs/
+.vscode/
+*.db
+*.log
+books.json
